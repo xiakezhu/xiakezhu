@@ -3,7 +3,7 @@
  -->
 <div align="center">
 <h1 style="font-family: Georgia">Xiake Zhu</h1>
-<img src="../xiakezhu/imgs/icon_github.png" style="width: 200px; height:200px;">
+<img src="./imgs/icon_github.png" style="width: 200px; height:200px;">
 </div>
 
 <div align="center" >
