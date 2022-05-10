@@ -18,20 +18,20 @@
 
 ---
 
-## :man_technologist: About Me :
+### :man_technologist: About Me :
 
 -   🌱 I’m currently learning Software Development and Web Development.
 
 ---
 
-## :wrench: Languages
+### :wrench: Languages
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@
 
 </div>
 
-## :hammer: Tools
+### :hammer: Tools
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
@@ -52,15 +52,21 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
 
 
-    
+</div>
 
-    
+---
+### My Github Stats
 
+<div>
 
-
-    
+<a href="https://github.com/xiakezhu?tab=repositories">
+  <!-- <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardowulei"> -->
+  &nbsp;&nbsp;&nbsp;
+  <img height="230" src="https://github-readme-stats.vercel.app/api?username=xiakezhu&count_private=true">
+</a>
 
 </div>
+
 <!--
 **xiakezhu/xiakezhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
