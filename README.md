@@ -1,18 +1,18 @@
 <!-- 
  Code modified from https://www.sitepoint.com/github-profile-readme/
  -->
-<div style="text-align: center">
+<div align="center">
 <h1 style="font-family: Georgia">Xiake Zhu</h1>
 <img src="https://raw.githubusercontent.com/xiakezhu/LectureImageStore/main/img/IMG_2022.JPG?token=AXIPFJDOQSIMYKQBHBA7RW3CPHI26" style="width: 150px; height:150px; border-radius: 90px; object-fit:cover;">
 </div>
 
-<div style="text-align: center" >
+<div align="center" >
 <a href="https://www.linkedin.com/in/xiake-zhu-7b427b152/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
 
-<div style="text-align: center">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=xiakezhu&style=flat-square&color=blue" alt=""/>
 </div>
 
