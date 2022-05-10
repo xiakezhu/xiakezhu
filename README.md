@@ -1,7 +1,8 @@
 <!--
  Code modified from https://www.sitepoint.com/github-profile-readme/
  -->
-<h1 align="center" style="font-family: Georgia">Xiake Zhu</h1>
+<!-- <h1 align="center" style="font-family: Georgia">Hi there</h1> -->
+## Hi there :wave:
 <div align="center">
 <img src="./imgs/icon_github.png" style="width: 200px; height:200px;">
 </div>
@@ -10,17 +11,26 @@
 <a href="https://www.linkedin.com/in/xiake-zhu-7b427b152/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="" alt="LinkedIn Badge"/>
 </a>
+
+<a>
+
+</a>
 </div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=xiakezhu&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 
--   🌱 I’m currently learning Software Development and Web Development.
+:mortar_board: I am Xiake Zhu, a software developer pursuing my Master's degree in Computer Science. 
+
+:electric_plug: I’m currently learning Software Development and Web Development.
+
+
 
 ---
 
