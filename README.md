@@ -3,7 +3,7 @@
  -->
 <div align="center">
 <h1 style="font-family: Georgia">Xiake Zhu</h1>
-<img src="https://raw.githubusercontent.com/xiakezhu/LectureImageStore/main/img/IMG_2022.JPG?token=AXIPFJDOQSIMYKQBHBA7RW3CPHI26" style="width: 150px; height:150px; border-radius: 90px; object-fit:cover;">
+<!-- <img src="https://raw.githubusercontent.com/xiakezhu/LectureImageStore/main/img/IMG_2022.JPG?token=AXIPFJDOQSIMYKQBHBA7RW3CPHI26" style="width: 150px; height:150px; border-radius: 90px; object-fit:cover;"> -->
 </div>
 
 <div align="center" >
